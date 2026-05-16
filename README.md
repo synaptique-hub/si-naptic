@@ -1,4 +1,4 @@
-# SI-NAPTIC™
+# Méthode SYNAPTIQUE™
 ## Cognitive Autonomy in the Age of AI
 
 > **"AI should be removable at any time without collapsing human thinking."**
